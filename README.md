@@ -1,9 +1,6 @@
 # **English**
-
 ## <span style="font-size: 18px;">Have you ever imagined playing a modpack focused on economy?"</span>
-
 ## <span style="font-size: 18px;">Introducing "<span style="color: #f1c40f;">Economycraft</span>"!</span>
-
 ## <span style="font-size: 18px; color: #fff;"><strong>Features:</strong></span>
 
 <span style="font-size: 14px;">✔ Economy system with the Lightman's Currency mod for trading, shops, and customized progression!</span>  
@@ -16,11 +13,8 @@
 ***
 
 # **Português**
-
 ## <span style="font-size: 18px;">Já imaginaste jogar um modpack focado em economia?</span>
-
 ## <span style="font-size: 18px;">Apresentamos "<span style="color: #f1c40f;">Economycraft</span>"!</span>
-
 ## <span style="font-size: 18px; color: #fff;"><strong>Características:</strong></span>
 
 <span style="font-size: 14px;">✔ Sistema de economia com o mod&nbsp;<strong>Lightman's Currency</strong> para comércio, lojas e progressão personalizada!</span>  
