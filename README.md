@@ -1,3 +1,5 @@
+# Economycraft
+
 <img width="2007" height="246" alt="economycraft" src="https://github.com/user-attachments/assets/499be896-522b-4318-92ce-ece2d8c7ab43" />
 
 # **English**
